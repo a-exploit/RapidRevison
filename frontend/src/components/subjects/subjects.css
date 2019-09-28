@@ -1,0 +1,12 @@
+.card{
+  	background:linear-gradient(90deg, rgba(205,142,198,1) 0%, rgba(232,195,77,0.9150035014005602) 41%, rgba(255,119,171,1) 100%);
+    background-size:200% auto;
+    text-align:center;
+    font-weight:900;
+    font-size:2rem;
+    transition: 0.5s;
+
+}
+.card:hover{
+	background-position: right center;
+}
