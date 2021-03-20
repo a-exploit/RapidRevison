@@ -20,7 +20,7 @@ et-xmlfile==1.0.1
 idna==2.7
 itypes==1.1.0
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 lockfile==0.12.2
 Markdown==3.0.1
 MarkupSafe==1.1.0
